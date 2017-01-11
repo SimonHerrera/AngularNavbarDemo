@@ -1,4 +1,4 @@
-# Sample Angular 2 App - Created with assistance of an Eduonix Tutorial
+# Sample Angular 2 App - Created with the assistance of a Eduonix Tutorial
 
 This is an angular 2 app that displays a various components using the angular router to switch between components. The angular 2 quickstart guide was used to set up the files.
 
